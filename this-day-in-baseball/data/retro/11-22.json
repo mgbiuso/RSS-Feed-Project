@@ -1,0 +1,177 @@
+{
+ "month": 11,
+ "day": 22,
+ "games": 0,
+ "items": [],
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 202,
+  "items": [
+   {
+    "year": 2021,
+    "text": "Giants trade Jay Jackson to the Braves for cash",
+    "star": false
+   },
+   {
+    "year": 2013,
+    "text": "Cardinals trade David Freese and Fernando Salas to the Angels for Peter Bourjos and Randal Grichuk",
+    "star": false
+   },
+   {
+    "year": 2000,
+    "text": "Blue Jays trade Clayton Andrews and Leo Estrella to the Reds for Steve Parris",
+    "star": false
+   },
+   {
+    "year": 1983,
+    "text": "Rod Carew signs with the Angels",
+    "star": true
+   },
+   {
+    "year": 1977,
+    "text": "Rich Gossage signs with the Yankees",
+    "star": true
+   },
+   {
+    "year": 1935,
+    "text": "Red Sox buy Bobby Doerr",
+    "star": true
+   },
+   {
+    "year": 1934,
+    "text": "Pirates trade Larry French and Freddie Lindstrom to the Cubs for Guy Bush, Jim Weaver and Babe Herman",
+    "star": true
+   },
+   {
+    "year": 1920,
+    "text": "Phillies trade Eppa Rixey to the Reds for Jimmy Ring and Greasy Neale",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "8",
+    "note": "most in 1991 (1)"
+   },
+   {
+    "label": "Trades made",
+    "value": "35",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "113",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2011",
+    "note": "17 transactions"
+   }
+  ],
+  "years": [
+   1891,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [
+   {
+    "year": 1942,
+    "name": "Del Ballinger",
+    "star": false,
+    "seasons": 4
+   },
+   {
+    "year": 1942,
+    "name": "Joe Dobbins",
+    "star": false,
+    "seasons": 4
+   },
+   {
+    "year": 1942,
+    "name": "Frank Kerr",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1942,
+    "name": "Ted Kerr",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1942,
+    "name": "Jim Omar",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1942,
+    "name": "Hal Patchett",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "farewells": [
+   {
+    "year": 1942,
+    "name": "Lou Dials",
+    "star": false,
+    "seasons": 13
+   },
+   {
+    "year": 1942,
+    "name": "Curtis Harris",
+    "star": false,
+    "seasons": 10
+   },
+   {
+    "year": 1942,
+    "name": "Frank Kerr",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1942,
+    "name": "Ted Kerr",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1942,
+    "name": "Jim Omar",
+    "star": false,
+    "seasons": 1
+   },
+   {
+    "year": 1942,
+    "name": "Hal Patchett",
+    "star": false,
+    "seasons": 1
+   }
+  ],
+  "debutCount": 8,
+  "farewellCount": 9,
+  "hofDebuts": 0,
+  "managerDebuts": [
+   {
+    "year": 1942,
+    "name": "Kent Parker",
+    "star": false
+   }
+  ]
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ },
+ "feats": {
+  "count": 0,
+  "items": []
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}
