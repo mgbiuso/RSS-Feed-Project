@@ -1,0 +1,97 @@
+{
+ "month": 11,
+ "day": 23,
+ "games": 0,
+ "items": [],
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 156,
+  "items": [
+   {
+    "year": 2016,
+    "text": "Mariners trade Taijuan Walker and Ketel Marte to the Diamondbacks for Jean Segura, Mitch Haniger and Zac Curtis",
+    "star": false
+   },
+   {
+    "year": 2016,
+    "text": "Phillies trade Jimmy Cordero to the Nationals",
+    "star": false
+   },
+   {
+    "year": 1976,
+    "text": "Astros trade Larry Dierker and Jerry DaVanon to the Cardinals for Joe Ferguson and Bob Detherage",
+    "star": false
+   },
+   {
+    "year": 1964,
+    "text": "Mets buy Warren Spahn from the Braves",
+    "star": true
+   },
+   {
+    "year": 1951,
+    "text": "Browns trade Jim McDonald to the Yankees for Clint Courtney",
+    "star": false
+   },
+   {
+    "year": 1926,
+    "text": "Rabbit Maranville signs with the Cardinals",
+    "star": true
+   },
+   {
+    "year": 1908,
+    "text": "Harry Hooper signs with the Red Sox",
+    "star": true
+   },
+   {
+    "year": 1895,
+    "text": "Reds trade cash, Morgan Murphy, Ed McFarland, Tom Parrott and Arlie Latham to the Cardinals for Red Ehret and Heinie Peitz",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "6",
+    "note": "most in 2008 (1)"
+   },
+   {
+    "label": "Trades made",
+    "value": "21",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "82",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2016",
+    "note": "21 transactions"
+   }
+  ],
+  "years": [
+   1895,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [],
+  "debutCount": 0,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ },
+ "feats": {
+  "count": 0,
+  "items": []
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}
