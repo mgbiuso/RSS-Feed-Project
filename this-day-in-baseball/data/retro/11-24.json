@@ -1,0 +1,97 @@
+{
+ "month": 11,
+ "day": 24,
+ "games": 0,
+ "items": [],
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 202,
+  "items": [
+   {
+    "year": 2015,
+    "text": "Rockies trade Tommy Kahnle to the White Sox for Yency Almonte",
+    "star": false
+   },
+   {
+    "year": 2005,
+    "text": "Marlins trade cash and Carlos Delgado to the Mets for Mike Jacobs, Yusmeiro Petit and Grant Psomas",
+    "star": false
+   },
+   {
+    "year": 2005,
+    "text": "Marlins trade Josh Beckett, Mike Lowell and Guillermo Mota to the Red Sox for Hanley Ramirez, Anibal Sanchez, Harvey Garcia and Jesus Delgado",
+    "star": false
+   },
+   {
+    "year": 2004,
+    "text": "Pirates trade J.J. Davis to the Nationals for Antonio Sucre",
+    "star": false
+   },
+   {
+    "year": 1993,
+    "text": "Twins trade Willie Banks to the Cubs for Dave Stevens and Matt Walbeck",
+    "star": false
+   },
+   {
+    "year": 1993,
+    "text": "Braves trade Pete Smith to the Mets for Dave Gallagher",
+    "star": false
+   },
+   {
+    "year": 1972,
+    "text": "Yankees trade Rob Gardner to the Athletics for Matty Alou",
+    "star": false
+   },
+   {
+    "year": 1962,
+    "text": "Senators trade Harry Bright to the Reds for Rogelio Alvarez",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "4",
+    "note": "most in 1999 (1)"
+   },
+   {
+    "label": "Trades made",
+    "value": "41",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "118",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2005",
+    "note": "15 transactions"
+   }
+  ],
+  "years": [
+   1886,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [],
+  "debutCount": 0,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ },
+ "feats": {
+  "count": 0,
+  "items": []
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}
