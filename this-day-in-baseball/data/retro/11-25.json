@@ -1,0 +1,97 @@
+{
+ "month": 11,
+ "day": 25,
+ "games": 0,
+ "items": [],
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 192,
+  "items": [
+   {
+    "year": 2020,
+    "text": "Rockies trade Case Williams and Jeff Hoffman to the Reds for Jameson Hannah and Robert Stephenson",
+    "star": false
+   },
+   {
+    "year": 2013,
+    "text": "Padres trade Jaff Decker and Miles Mikolas to the Pirates for Alex Dickerson",
+    "star": false
+   },
+   {
+    "year": 2006,
+    "text": "Brewers trade Doug Davis, Dana Eveland and Dave Krynzel to the Diamondbacks for Johnny Estrada, Claudio Vargas and Greg Aquino",
+    "star": false
+   },
+   {
+    "year": 2005,
+    "text": "Phillies trade cash and Jim Thome to the White Sox for Aaron Rowand and Daniel Haigwood",
+    "star": true
+   },
+   {
+    "year": 2003,
+    "text": "Marlins trade Derrek Lee to the Cubs for Hee-Seop Choi and Mike Nannini",
+    "star": false
+   },
+   {
+    "year": 1985,
+    "text": "White Sox trade Ed Correa and Scott Fletcher to the Rangers for Wayne Tolleson and Dave Schmidt",
+    "star": false
+   },
+   {
+    "year": 1969,
+    "text": "Angels trade Jim McGlothlin, Vern Geishert and Pedro Borbon to the Reds for Alex Johnson and Chico Ruiz",
+    "star": false
+   },
+   {
+    "year": 1953,
+    "text": "Yankees release Johnny Mize",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "6",
+    "note": "most in 2015 (3)"
+   },
+   {
+    "label": "Trades made",
+    "value": "47",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "96",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2015",
+    "note": "25 transactions"
+   }
+  ],
+  "years": [
+   1889,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [],
+  "debutCount": 0,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ },
+ "feats": {
+  "count": 0,
+  "items": []
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}

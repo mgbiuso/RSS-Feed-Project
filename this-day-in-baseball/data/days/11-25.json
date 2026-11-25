@@ -1,0 +1,956 @@
+{
+ "month": 11,
+ "day": 25,
+ "stories": [
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1947",
+   "text": "Sam Breadon and his minority partners sell the St. Louis Cardinals to former United States Postmaster General Robert E. Hannegan, 44, and St. Louis attorney Fred Saigh, 42. Breadon, 71, became the Redbirds' president and largest stockholder in 1920 and principal owner two years later; under him they won nine National League pennants and six World Series titles.",
+   "links": [
+    "Sam Breadon",
+    "St. Louis Cardinals",
+    "United States Postmaster General"
+   ],
+   "score": 85.0,
+   "abouts": [
+    "Sam Breadon",
+    "United States Postmaster General",
+    "St. Louis Cardinals"
+   ],
+   "about": "Sam Breadon",
+   "key": "5e70fb0f41ecd202",
+   "headline": "Sam Breadon and His Minority Partners Sell the St. Louis Cardinals",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Sam_Breadon_Cardinals.jpg",
+    "credit": "St. Louis Cardinals - 1941 Team Issue",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Sam_Breadon_Cardinals.jpg",
+    "alt": "American baseball executive (1876–1949)",
+    "source": "wikipedia",
+    "of": "Sam Breadon",
+    "w": 310,
+    "h": 386
+   },
+   "extract": "Samuel Wilson Breadon was an American professional baseball executive. He served as the president and principal owner of the St. Louis Cardinals of Major League Baseball (MLB) from 1920 to 1947. During that time, the Cardinals rose from languishing as one of the National League's doormats to a premier power in…",
+   "page": "https://en.wikipedia.org/wiki/Sam_Breadon",
+   "lead": true
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2015",
+   "text": "On November 25, 2015, Gallego was announced as director of baseball development for the Los Angeles Angels of Anaheim.",
+   "links": [
+    "Mike Gallego"
+   ],
+   "about": "Mike Gallego",
+   "score": 25.089338594817526,
+   "abouts": [
+    "Mike Gallego"
+   ],
+   "key": "cc2f294087f6cc6b",
+   "headline": "Gallego Was Announced as Director of Baseball Development for the Los",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mike_Gallego_on_August_3%2C_2012.jpg/960px-Mike_Gallego_on_August_3%2C_2012.jpg",
+    "credit": "Scott U",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mike_Gallego_on_August_3,_2012.jpg",
+    "alt": "American baseball player & coach (born 1960)",
+    "source": "wikipedia",
+    "of": "Mike Gallego",
+    "w": 1827,
+    "h": 2400
+   },
+   "extract": "Michael Anthony Gallego is an American former professional baseball player and current coach. He played in Major League Baseball (MLB) as an infielder from 1985 to 1997, most notably as a member of the Oakland Athletics team that won three consecutive American League pennants and a World Series championship in 1989.…",
+   "page": "https://en.wikipedia.org/wiki/Mike_Gallego"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2011",
+   "text": "On November 25, 2011, Davis was hired to be the Oakland Athletics hitting coach.",
+   "links": [
+    "Chili Davis"
+   ],
+   "about": "Chili Davis",
+   "score": 28.156711432419662,
+   "abouts": [
+    "Chili Davis"
+   ],
+   "key": "0787b5a7ac39bdda",
+   "headline": "Davis Was Hired to Be the Oakland Athletics Hitting Coach",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Chili_Davis_1983.jpg",
+    "credit": "Barry Colla",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Chili_Davis_1983.jpg",
+    "alt": "Jamaican-American baseball player and coach (born 1960)",
+    "source": "wikipedia",
+    "of": "Chili Davis",
+    "w": 309,
+    "h": 465
+   },
+   "extract": "Charles Theodore \"Chili\" Davis is a Jamaican-American former professional baseball player. He played as an outfielder and designated hitter from 1981 to 1999 for the San Francisco Giants (1981–1987), California Angels, Minnesota Twins (1991–1992), Kansas City Royals (1997) and New York Yankees (1998–1999). His first…",
+   "page": "https://en.wikipedia.org/wiki/Chili_Davis"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "2011",
+   "text": "Yukio Nishimoto, 91, Japanese Baseball Hall of Fame player and manager.",
+   "links": [
+    "Yukio Nishimoto",
+    "Japanese Baseball Hall of Fame"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Yukio Nishimoto",
+    "Japanese Baseball Hall of Fame"
+   ],
+   "about": "Yukio Nishimoto",
+   "key": "aba5f1c8274986b2",
+   "headline": "Yukio Nishimoto, 91, Japanese Baseball Hall of Fame Player and Manager",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Yukio_Nishimoto_1955_Scan10015.jpg",
+    "credit": "ベースボール・マガジン社（Baseball Magazine Co. Ltd)",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Yukio_Nishimoto_1955_Scan10015.jpg",
+    "alt": "Japanese baseball player and manager (1920–2011)",
+    "source": "wikipedia",
+    "of": "Yukio Nishimoto",
+    "w": 480,
+    "h": 656
+   },
+   "extract": "Yukio Nishimoto was a Japanese baseball player and manager. He played for the Mainichi Orions from 1950 to 1955. In nearly 500 games for the Orions, he batted .244 and was on the field for the Orions winning the 1950 Japan Series.",
+   "page": "https://en.wikipedia.org/wiki/Yukio_Nishimoto"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2010",
+   "text": "Free agent Kaz Matsui returns to Japan, signing with the Rakuten Eagles of the Japanese Pacific League.",
+   "links": [
+    "Kaz Matsui",
+    "Rakuten Eagles"
+   ],
+   "score": 36.46349501521965,
+   "abouts": [
+    "Kaz Matsui",
+    "Rakuten Eagles"
+   ],
+   "about": "Kaz Matsui",
+   "key": "ea5ba0772eef301e",
+   "headline": "Free Agent Kaz Matsui Returns to Japan, Signing",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Matsuikazuo.jpg/960px-Matsuikazuo.jpg",
+    "credit": "えすぱにぃ",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Matsuikazuo.jpg",
+    "alt": "Japanese baseball player & coach (born 1975)",
+    "source": "wikipedia",
+    "of": "Kaz Matsui",
+    "w": 3138,
+    "h": 3988
+   },
+   "extract": "Kazuo Matsui is a Japanese former professional baseball player who played as a shortstop and is a former manager of the Saitama Seibu Lions. He is a switch-hitter.",
+   "page": "https://en.wikipedia.org/wiki/Kazuo_Matsui"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2006",
+   "text": "Krynzel was drafted in the 1st round (11th overall) of the 2000 Major League Baseball draft and spent seven years in the Milwaukee Brewers farm system before being traded to the Arizona Diamondbacks on November 25, 2006, with Doug Davis and Dana Eveland for Johnny Estrada, Greg Aquino, and Claudio Vargas.",
+   "links": [
+    "Dave Krynzel"
+   ],
+   "about": "Dave Krynzel",
+   "score": 45.95165849085146,
+   "abouts": [
+    "Dave Krynzel"
+   ],
+   "key": "1ae4c87b803d8f40",
+   "headline": "Krynzel Was Drafted in the 1st Round (11th Overall) of the 2000 Major",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Krynzel_On_First_%2817955941%29_%28cropped%29.jpg",
+    "credit": "Jeramey Jannene: Flickr, website",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Krynzel_On_First_(17955941)_(cropped).jpg",
+    "alt": "American baseball player (born 1981)",
+    "source": "wikipedia",
+    "of": "Dave Krynzel",
+    "w": 450,
+    "h": 338
+   },
+   "extract": "David Benjamin Krynzel is an American former Major League Baseball outfielder. He made his major league debut on September 1, 2004.",
+   "page": "https://en.wikipedia.org/wiki/Dave_Krynzel"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "2005",
+   "text": "The Baltimore Orioles signed Tatís to a minor-league contract on November 25, 2005.",
+   "links": [
+    "Fernando Tatís"
+   ],
+   "about": "Fernando Tatís",
+   "score": 40.755776275754585,
+   "abouts": [
+    "Fernando Tatís"
+   ],
+   "key": "bd63a3fe3702e3eb",
+   "headline": "The Baltimore Orioles Signed Tatís to a Minor-League Contract",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Fernando_Tatis.jpg/960px-Fernando_Tatis.jpg",
+    "credit": "Wknight94",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernando_Tatis.jpg",
+    "alt": "Dominican baseball player (born 1975)",
+    "source": "wikipedia",
+    "of": "Fernando Tatís",
+    "w": 2379,
+    "h": 2267
+   },
+   "extract": "Fernando Gabriel Tatís Medina Sr. is a Dominican former professional baseball third baseman. Over his 11-year Major League Baseball (MLB) career, Tatís played for the Texas Rangers, St. Louis Cardinals, Montreal Expos, Baltimore Orioles, and New York Mets. He holds the major league record for runs batted in (RBI) in…",
+   "page": "https://en.wikipedia.org/wiki/Fernando_Tat%C3%ADs"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "2002",
+   "text": "The Boston Red Sox sign 28-year–old Theo Epstein as their new general manager. He becomes the youngest GM in major league history.",
+   "links": [
+    "Boston Red Sox",
+    "Theo Epstein"
+   ],
+   "score": 53.92140856442792,
+   "abouts": [
+    "Theo Epstein",
+    "Boston Red Sox"
+   ],
+   "about": "Theo Epstein",
+   "key": "5c39f3606d6d98bb",
+   "headline": "The Boston Red Sox Sign 28-Year–old Theo Epstein",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Theo_Epstein_2010.jpg/960px-Theo_Epstein_2010.jpg",
+    "credit": "Scott Slingsby from Rochester, NH",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Theo_Epstein_2010.jpg",
+    "alt": "American baseball executive",
+    "source": "wikipedia",
+    "of": "Theo Epstein",
+    "w": 968,
+    "h": 1175
+   },
+   "extract": "Theo Nathaniel Epstein is an American former Major League Baseball (MLB) executive who currently serves as a senior advisor and part-owner of Fenway Sports Group, which owns the Boston Red Sox of MLB and Liverpool F.C. of the English Premier League, among other properties.",
+   "page": "https://en.wikipedia.org/wiki/Theo_Epstein"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1993",
+   "text": "Burgess Whitehead, 83, last surviving member of the St. Louis Cardinals Gashouse Gang team that won 95 games, the National League pennant, and the 1934 World Series in seven games over the Detroit Tigers.",
+   "links": [
+    "Burgess Whitehead",
+    "Gashouse Gang",
+    "1934 World Series"
+   ],
+   "score": 20.0715,
+   "abouts": [
+    "Burgess Whitehead",
+    "Gashouse Gang",
+    "1934 World Series"
+   ],
+   "about": "Burgess Whitehead",
+   "key": "5ab4e4227a034406",
+   "headline": "Burgess Whitehead, 83, Last Surviving Member of the St. Louis",
+   "image": null,
+   "extract": "Burgess Urquhart \"Whitey\" Whitehead was an American Major League Baseball second baseman from 1933 to 1946. He played for the St. Louis Cardinals, New York Giants, and Pittsburgh Pirates.",
+   "page": "https://en.wikipedia.org/wiki/Burgess_Whitehead"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1991",
+   "text": "The Montreal Expos trade first baseman Andrés Galarraga to the St. Louis Cardinals for starting pitcher Ken Hill. Galarraga struggles for St. Louis before enjoying a career renaissance with the Colorado Rockies in 1993.",
+   "links": [
+    "Montreal Expos",
+    "Andrés Galarraga",
+    "St. Louis Cardinals"
+   ],
+   "score": 44.234467716583126,
+   "abouts": [
+    "Andrés Galarraga",
+    "Montreal Expos",
+    "St. Louis Cardinals"
+   ],
+   "about": "Andrés Galarraga",
+   "key": "9b6f3e758eed75d7",
+   "headline": "The Montreal Expos Trade First Baseman Andrés Galarraga to the St",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Andres_galarraga2002.jpg/960px-Andres_galarraga2002.jpg",
+    "credit": "User Dlz28 on en.wikipedia",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Andres_galarraga2002.jpg",
+    "alt": "Venezuelan baseball player (born 1961)",
+    "source": "wikipedia",
+    "of": "Andrés Galarraga",
+    "w": 1028,
+    "h": 948
+   },
+   "extract": "Andrés José Padovani Galarraga is a Venezuelan former professional baseball first baseman who played 19 seasons in Major League Baseball (MLB) for the Montreal Expos, St. Louis Cardinals, Colorado Rockies, Atlanta Braves, Texas Rangers, San Francisco Giants and Anaheim Angels. He batted and threw right-handed. During…",
+   "page": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Galarraga"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1986",
+   "text": "Jose Canseco of the Oakland Athletics, who hit .240 with 33 home runs and 117 RBI, wins the American League Rookie of the Year Award with 16 of 28 first place votes, with the others going to Wally Joyner of the California Angels (.290, 22, 100). Canseco also becomes the first Athletics franchise player to win the award since pitcher Harry Byrd in 1952.",
+   "links": [
+    "Jose Canseco",
+    "Oakland Athletics",
+    "Wally Joyner"
+   ],
+   "score": 78.0507446380977,
+   "abouts": [
+    "Jose Canseco",
+    "Wally Joyner",
+    "Oakland Athletics"
+   ],
+   "about": "Jose Canseco",
+   "key": "846fd65ac4fc75cb",
+   "headline": "Jose Canseco of the Oakland Athletics, Who Hit .240",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Jose_Canseco_2009.jpg/960px-Jose_Canseco_2009.jpg",
+    "credit": "Glenn Francis",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jose_Canseco_2009.jpg",
+    "alt": "Cuban baseball player (born 1964)",
+    "source": "wikipedia",
+    "of": "Jose Canseco",
+    "w": 1223,
+    "h": 1834
+   },
+   "extract": "José Canseco Capas Jr. is a Cuban-American former professional baseball outfielder and designated hitter who played 17 seasons in Major League Baseball (MLB). During his time with the Oakland Athletics, he established himself as one of the premier power hitters in the game. He won the Rookie of the Year (1986), and…",
+   "page": "https://en.wikipedia.org/wiki/Jose_Canseco"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1985",
+   "text": "The Rangers traded Schmidt along with Wayne Tolleson to the White Sox for Scott Fletcher, Edwin Correa, and José Mota on November 25, 1985.",
+   "links": [
+    "Dave Schmidt (pitcher)"
+   ],
+   "about": "Dave Schmidt (pitcher)",
+   "score": 37.48464824036607,
+   "abouts": [
+    "Dave Schmidt (pitcher)"
+   ],
+   "key": "28cd3ffc9e24196c",
+   "headline": "The Rangers Traded Schmidt Along",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Dave_Schmidt_-_Texas_Rangers.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Dave_Schmidt_-_Texas_Rangers.jpg",
+    "alt": "American baseball player (born 1957)",
+    "source": "wikipedia",
+    "of": "Dave Schmidt (pitcher)",
+    "w": 211,
+    "h": 269
+   },
+   "extract": "David Joseph Schmidt is an American former baseball pitcher and coach. He played for the Texas Rangers, Chicago White Sox, Baltimore Orioles, Montreal Expos, and Seattle Mariners in Major League Baseball (MLB) between 1981 and 1992. Schmidt threw and batted right-handed. He was a minor-league pitching coach with the…",
+   "page": "https://en.wikipedia.org/wiki/Dave_Schmidt_(pitcher)"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1981",
+   "text": "Rollie Fingers of the Milwaukee Brewers becomes the first relief pitcher ever to win the American League Most Valuable Player Award, edging out Rickey Henderson of the Oakland Athletics, 319 to 308. Earlier in the month crowned the winner of the AL's 1981 Cy Young Award, Fingers saved 28 games while posting a microscopic 1.04 ERA.",
+   "links": [
+    "Rollie Fingers",
+    "Milwaukee Brewers",
+    "relief pitcher"
+   ],
+   "score": 63.70378661653885,
+   "abouts": [
+    "relief pitcher",
+    "Rollie Fingers",
+    "Milwaukee Brewers"
+   ],
+   "about": "relief pitcher",
+   "key": "1e56f5cab8fef59c",
+   "headline": "Rollie Fingers of the Milwaukee Brewers Becomes the First Relief",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jacob%27s_Field_Fultz_and_Betancourt_in_the_Bullpen.jpg",
+    "credit": "User laffy4k on Flickr",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jacob%27s_Field_Fultz_and_Betancourt_in_the_Bullpen.jpg",
+    "alt": "Baseball or softball pitcher that enters a game to pitch after a starting pitcher",
+    "source": "wikipedia",
+    "of": "relief pitcher",
+    "w": 960,
+    "h": 1280
+   },
+   "extract": "In baseball and softball, a relief pitcher or reliever is a pitcher who pitches in the game after the starting pitcher or another relief pitcher has been removed from the game because of fatigue, injury, ineffectiveness, ejection, high pitch count, or for other strategic reasons, such as inclement weather delays or…",
+   "page": "https://en.wikipedia.org/wiki/Relief_pitcher"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1975",
+   "text": "The Minnesota Twins hire veteran former National League skipper Gene Mauch as their manager for 1976. He fills a vacancy created on September 29 when Frank Quilici was dismissed following 3½ years at the Twins' helm, a term which produced a mark since July 7, 1972.",
+   "links": [
+    "Minnesota Twins",
+    "National League (baseball)",
+    "Gene Mauch"
+   ],
+   "score": 49.59059473571577,
+   "abouts": [
+    "Gene Mauch",
+    "National League (baseball)",
+    "Minnesota Twins"
+   ],
+   "about": "Gene Mauch",
+   "key": "b0b9f6edc9936722",
+   "headline": "The Minnesota Twins Hire Veteran Former National League Skipper Gene",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Gene_Mauch_1961.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Gene_Mauch_1961.jpg",
+    "alt": "American baseball player and manager (1925–2005)",
+    "source": "wikipedia",
+    "of": "Gene Mauch",
+    "w": 368,
+    "h": 453
+   },
+   "extract": "Gene William Mauch was an American professional baseball player and manager who played in Major League Baseball (MLB) as a second baseman for the Brooklyn Dodgers, Pittsburgh Pirates (1947), Chicago Cubs (1948–1949), Boston Braves (1950–1951), St. Louis Cardinals (1952) and Boston Red Sox (1956–1957).",
+   "page": "https://en.wikipedia.org/wiki/Gene_Mauch"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1974",
+   "text": "Rangers first baseman Mike Hargrove, who hit .323 with 66 RBI and a .395 OBP, is voted American League Rookie of the Year with 16 of 23 first place votes, with the others going to Bucky Dent (3), George Brett (2), Rick Burleson (1) and Jim Sundberg (1).",
+   "links": [
+    "Texas Rangers (baseball)",
+    "Mike Hargrove",
+    "Bucky Dent"
+   ],
+   "score": 40.12406966314656,
+   "abouts": [
+    "Bucky Dent",
+    "Mike Hargrove",
+    "Texas Rangers (baseball)"
+   ],
+   "about": "Bucky Dent",
+   "key": "748c781df5b45b91",
+   "headline": "Rangers First Baseman Mike Hargrove, Who Hit .323 With 66 RBI",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bucky_Dent_signs_autographs.jpg/960px-Bucky_Dent_signs_autographs.jpg",
+    "credit": "Peter Roan",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bucky_Dent_signs_autographs.jpg",
+    "alt": "American baseball player, coach, and manager (born 1951)",
+    "source": "wikipedia",
+    "of": "Bucky Dent",
+    "w": 2112,
+    "h": 2276
+   },
+   "extract": "Russell Earl \"Bucky\" Dent is an American former professional baseball player and manager. He played in Major League Baseball (MLB) for the Chicago White Sox, New York Yankees, Texas Rangers, and Kansas City Royals from 1973 to 1984. He managed the Yankees in 1989 and 1990.",
+   "page": "https://en.wikipedia.org/wiki/Bucky_Dent"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1972",
+   "text": "Pittsburgh Pirates right fielder Roberto Clemente wins his 12th consecutive Gold Glove Award and Los Angeles Dodgers first baseman Wes Parker his sixth in a row.",
+   "links": [
+    "Pittsburgh Pirates",
+    "Roberto Clemente",
+    "Gold Glove Award"
+   ],
+   "score": 10.0,
+   "abouts": [
+    "Roberto Clemente",
+    "Gold Glove Award",
+    "Pittsburgh Pirates"
+   ],
+   "about": "Roberto Clemente",
+   "key": "f7ebeed48b07e1c3",
+   "headline": "Pittsburgh Pirates Right Fielder Roberto Clemente Wins His 12th",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Roberto_Clemente.jpg/960px-Roberto_Clemente.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Roberto_Clemente.jpg",
+    "alt": "Puerto Rican baseball player (1934–1972)",
+    "source": "wikipedia",
+    "of": "Roberto Clemente",
+    "w": 1953,
+    "h": 2539
+   },
+   "extract": "Roberto Enrique Clemente Walker was a Puerto Rican professional baseball player who played 18 seasons in Major League Baseball (MLB) for the Pittsburgh Pirates, primarily as a right fielder. On December 31, 1972, Clemente was killed when his Douglas DC-7 airplane, which he had chartered for a flight to deliver…",
+   "page": "https://en.wikipedia.org/wiki/Roberto_Clemente"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1970",
+   "text": "New York Yankees catcher Thurman Munson receives 23 of 24 first-place votes and is named American League Rookie of the Year. Munson batted .302 with six home runs and 53 RBI in 132 games during the regular season. Cleveland Indians outfielder Roy Foster (.268, 23, 60) is also named on a first place ballot.",
+   "links": [
+    "New York Yankees",
+    "Thurman Munson",
+    "Major League Baseball Rookie of the Year Award"
+   ],
+   "score": 40.0,
+   "abouts": [
+    "Thurman Munson",
+    "Major League Baseball Rookie of the Year Award",
+    "New York Yankees"
+   ],
+   "about": "Thurman Munson",
+   "key": "a832308e82cc50cf",
+   "headline": "New York Yankees Catcher Thurman Munson Receives 23 of 24 First-Place",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Thurman_Munson_1970.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Thurman_Munson_1970.jpg",
+    "alt": "Thurman Munson",
+    "source": "commons",
+    "of": "Thurman Munson",
+    "w": 310,
+    "h": 490
+   },
+   "extract": "Thurman Lee Munson was an American professional baseball catcher who played 11 seasons in Major League Baseball (MLB) with the New York Yankees, from 1969 until his death in 1979. A seven-time All-Star, Munson had a career batting average of .292 with 113 home runs and 701 runs batted in (RBIs). Known for his…",
+   "page": "https://en.wikipedia.org/wiki/Thurman_Munson"
+  },
+  {
+   "src": "yearpage",
+   "kind": "death",
+   "year": "1970",
+   "text": "Gerald Nugent, 78, president and majority owner of the Philadelphia Phillies from 1932 to 1942.",
+   "links": [
+    "Gerald Nugent"
+   ],
+   "score": 20.0685,
+   "abouts": [
+    "Gerald Nugent"
+   ],
+   "about": "Gerald Nugent",
+   "key": "5829d4812c78f1fc",
+   "headline": "Gerald Nugent, 78, President and Majority Owner of the Philadelphia",
+   "image": null,
+   "extract": "Gerald Paul Nugent, Sr. was an American baseball executive. He was the owner of the Philadelphia Phillies baseball team of the National League from 1932 through 1942.",
+   "page": "https://en.wikipedia.org/wiki/Gerald_Nugent"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1966",
+   "text": "Cincinnati Reds infielder Tommy Helms is voted National League Rookie of the Year with 12 of 20 first place votes, with the others going to Sonny Jackson (3), Tito Fuentes (2), Randy Hundley (1), Larry Jaster (1) and Cleon Jones (1).",
+   "links": [
+    "Cincinnati Reds",
+    "Tommy Helms",
+    "Major League Baseball Rookie of the Year Award"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Tommy Helms",
+    "Major League Baseball Rookie of the Year Award",
+    "Cincinnati Reds"
+   ],
+   "about": "Tommy Helms",
+   "key": "61771b236971b7af",
+   "headline": "Cincinnati Reds Infielder Tommy Helms Is Voted National League Rookie",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tommy_Helms.jpg/960px-Tommy_Helms.jpg",
+    "credit": "Don Hunter",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Tommy_Helms.jpg",
+    "alt": "American baseball player and manager (1941–2025)",
+    "source": "wikipedia",
+    "of": "Tommy Helms",
+    "w": 1098,
+    "h": 1484
+   },
+   "extract": "Tommy Vann Helms was an American professional baseball player and manager. Over a 14-year Major League Baseball (MLB) career (1964–1977), Helms played for four teams, including eight seasons with the Cincinnati Reds, four with the Houston Astros, and one each with the Pittsburgh Pirates and Boston Red Sox. He won the…",
+   "page": "https://en.wikipedia.org/wiki/Tommy_Helms"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1958",
+   "text": "Chicago Cubs slugger Ernie Banks, who batted .313 with 47 home runs and 129 RBI, is named National League Most Valuable Player. Willie Mays of the San Francisco Giants is the runner-up, after going .347, 29, 96.",
+   "links": [
+    "Chicago Cubs",
+    "Ernie Banks",
+    "MLB MVP Award"
+   ],
+   "score": 60.650381662585815,
+   "abouts": [
+    "Ernie Banks",
+    "MLB MVP Award",
+    "Chicago Cubs"
+   ],
+   "about": "Ernie Banks",
+   "key": "57af0dda8ea10b01",
+   "headline": "Chicago Cubs Slugger Ernie Banks, Who Batted .313",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ernie_Banks_1969.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Ernie_Banks_1969.jpg",
+    "alt": "American baseball player (1931–2015)",
+    "source": "wikipedia",
+    "of": "Ernie Banks",
+    "w": 295,
+    "h": 452
+   },
+   "extract": "Ernest Banks, nicknamed \"Mr. Cub\" and \"Mr. Sunshine\", was an American professional baseball player who starred in Major League Baseball (MLB) as a shortstop and first baseman for the Chicago Cubs between 1953 and 1971. He was inducted into the National Baseball Hall of Fame in 1977 in his first year of eligibility,…",
+   "page": "https://en.wikipedia.org/wiki/Ernie_Banks"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1949",
+   "text": "Boston Red Sox left fielder Ted Williams, who lost the Triple Crown when his batting average was .0002 below that of George Kell, wins the American League MVP Award with 13 of 22 first place votes, with the rest of the votes going to Phil Rizzuto (5), Joe Page (3) and Mel Parnell (1).",
+   "links": [
+    "Boston Red Sox",
+    "Ted Williams",
+    "George Kell"
+   ],
+   "score": 61.78108567109868,
+   "abouts": [
+    "George Kell",
+    "Ted Williams",
+    "Boston Red Sox"
+   ],
+   "about": "George Kell",
+   "key": "19dbc9af64629056",
+   "headline": "Boston Red Sox Left Fielder Ted Williams",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/George_Kell_1953.jpg",
+    "credit": "Bowman Gum",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:George_Kell_1953.jpg",
+    "alt": "American baseball player (1922–2009)",
+    "source": "wikipedia",
+    "of": "George Kell",
+    "w": 251,
+    "h": 390
+   },
+   "extract": "George Clyde Kell was an American professional baseball player and television sports commentator. He played in Major League Baseball as a third baseman from 1943 to 1957, most prominently as a member of the Detroit Tigers, where he became a perennial All-Star player and won the American League (AL) batting…",
+   "page": "https://en.wikipedia.org/wiki/George_Kell"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1948",
+   "text": "Lou Boudreau, 31-year-old shortstop and player-manager of the world champion Cleveland Indians, wins the 1948 American League Most Valuable Player Award; he earns 22 of 24 first-place votes and bests runner-up Joe DiMaggio by 81 points in BBWAA balloting. Boudreau batted .355 with 199 hits, 18 homers (including a pair in the AL's pennant-clinching tie-breaker game), and 106 runs batted in.",
+   "links": [
+    "Lou Boudreau",
+    "player-manager",
+    "Cleveland Indians"
+   ],
+   "score": 82.0,
+   "abouts": [
+    "Lou Boudreau",
+    "player-manager",
+    "Cleveland Indians"
+   ],
+   "about": "Lou Boudreau",
+   "key": "81bc1e8da8530ebe",
+   "headline": "Lou Boudreau, 31-Year-Old Shortstop",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/LOU_BOUDREAU.jpg/960px-LOU_BOUDREAU.jpg",
+    "credit": "RF",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:LOU_BOUDREAU.jpg",
+    "alt": "American baseball player and manager (1917–2001)",
+    "source": "wikipedia",
+    "of": "Lou Boudreau",
+    "w": 2294,
+    "h": 2600
+   },
+   "extract": "Louis Boudreau, nicknamed \"Old Shufflefoot\", \"Handsome Lou\", and \"the Good Kid\", was an American professional baseball player and manager. He played in Major League Baseball (MLB) for 15 seasons, primarily as a shortstop on the Cleveland Indians, and managed four teams for 15 seasons including 10 seasons as a…",
+   "page": "https://en.wikipedia.org/wiki/Lou_Boudreau"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1945",
+   "text": "A team of Negro leagues all-stars, including Jackie Robinson and Roy Campanella, travel to Venezuela for the Serie Monumental, where they will play several Venezuelan all-star teams.",
+   "links": [
+    "Negro leagues",
+    "all-star",
+    "Jackie Robinson"
+   ],
+   "score": 36.952909392752176,
+   "abouts": [
+    "all-star",
+    "Negro leagues",
+    "Jackie Robinson"
+   ],
+   "about": "all-star",
+   "key": "935ac6b8a178f73a",
+   "headline": "A Team of Negro Leagues All-Stars, Including Jackie Robinson",
+   "image": null,
+   "extract": "The Negro leagues were professional baseball leagues primarily in the United States comprising teams of African Americans. The term may be used broadly to include professional black teams outside the leagues and it may be used narrowly for the seven relatively successful leagues beginning in 1920 that are sometimes…",
+   "page": "https://en.wikipedia.org/wiki/Negro_league_baseball"
+  },
+  {
+   "src": "article",
+   "kind": "event",
+   "year": "1944",
+   "text": "In 1944, the award was named after Kenesaw Mountain Landis, the first Commissioner of Baseball, who served from 1920 until his death on November 25, 1944.",
+   "links": [
+    "Major League Baseball Most Valuable Player Award"
+   ],
+   "about": "Major League Baseball Most Valuable Player Award",
+   "score": 32.65982016974173,
+   "abouts": [
+    "Major League Baseball Most Valuable Player Award"
+   ],
+   "key": "3ef0d388d4bc459c",
+   "headline": "In 1944, the Award Was Named After Kenesaw Mountain Landis",
+   "image": null,
+   "extract": "The Major League Baseball Most Valuable Player Award (MVP) is an annual Major League Baseball (MLB) award given to one outstanding player in the American League (AL) and one in the National League (NL). The award has been presented by the Baseball Writers' Association of America (BBWAA) since 1931.",
+   "page": "https://en.wikipedia.org/wiki/Major_League_Baseball_Most_Valuable_Player_Award"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1942",
+   "text": "The Baltimore Sun reports that a group of local businessmen has organized to buy the Philadelphia Phils from destitute owner Gerald Nugent and move them to the Maryland metropolis; the group plans to meet with mayor Howard W. Jackson in the coming days. The National League is brokering a sale of the struggling franchise, although league chief Ford Frick opposes its relocation.",
+   "links": [
+    "Baltimore Sun",
+    "Philadelphia Phils",
+    "Gerald Nugent"
+   ],
+   "score": 45.699395432006185,
+   "abouts": [
+    "Gerald Nugent",
+    "Baltimore Sun",
+    "Philadelphia Phils"
+   ],
+   "about": "Gerald Nugent",
+   "key": "26195d3e9eb47a6f",
+   "headline": "The Baltimore Sun Reports That a Group of Local Businessmen Has",
+   "image": null,
+   "extract": "Gerald Paul Nugent, Sr. was an American baseball executive. He was the owner of the Philadelphia Phillies baseball team of the National League from 1932 through 1942.",
+   "page": "https://en.wikipedia.org/wiki/Gerald_Nugent"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1940",
+   "text": "The New York Giants acquire second baseman Joe Orengo from the St. Louis Cardinals in a cash transaction.",
+   "links": [
+    "New York Giants (NL)",
+    "Joe Orengo",
+    "St. Louis Cardinals"
+   ],
+   "score": 22.0,
+   "abouts": [
+    "Joe Orengo",
+    "New York Giants (NL)",
+    "St. Louis Cardinals"
+   ],
+   "about": "Joe Orengo",
+   "key": "ffff61bb0ffba30c",
+   "headline": "The New York Giants Acquire Second Baseman Joe Orengo From the St",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Joe_Orengo_1951_%28cropped%29.jpg/960px-Joe_Orengo_1951_%28cropped%29.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Joe_Orengo_1951_(cropped).jpg",
+    "alt": "American baseball player (1914–1988)",
+    "source": "wikipedia",
+    "of": "Joe Orengo",
+    "w": 1137,
+    "h": 1802
+   },
+   "extract": "Joseph Charles Orengo was an American infielder in Major League Baseball who played for five teams from 1939 to 1945, playing all four infield positions. He was born in San Francisco, California, and died there at age 73.",
+   "page": "https://en.wikipedia.org/wiki/Joe_Orengo"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1930",
+   "text": "The Sporting News, acting to fill the Most Valuable Player void, announces its selection of Washington Senators shortstop Joe Cronin in the American League and New York Giants first baseman Bill Terry in the National League.",
+   "links": [
+    "The Sporting News",
+    "Washington Senators (1901–1960)",
+    "Joe Cronin"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "The Sporting News",
+    "Joe Cronin",
+    "Washington Senators (1901–1960)"
+   ],
+   "about": "The Sporting News",
+   "key": "d1bad51b9ea1a476",
+   "headline": "The Sporting News, Acting to Fill the Most Valuable Player Void",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Joe_Cronin_1937_cropped.jpg",
+    "credit": "Harris & Ewing",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Joe_Cronin_1937_cropped.jpg",
+    "alt": "American baseball player and manager (1906–1984)",
+    "source": "wikipedia",
+    "of": "Joe Cronin",
+    "w": 534,
+    "h": 661
+   },
+   "extract": "Joseph Edward Cronin was an American professional baseball player, manager and executive. He played in Major League Baseball (MLB) as a shortstop, most notably as a member of the Boston Red Sox. Cronin spent over 48 years in baseball, culminating with 14 years as president of the American League (AL).",
+   "page": "https://en.wikipedia.org/wiki/Joe_Cronin"
+  },
+  {
+   "src": "yearpage",
+   "kind": "event",
+   "year": "1889",
+   "text": "Former Indianapolis Hoosiers shortstop Jack Glasscock, claiming that his pledge to the Players' League does not constitute a binding contract, becomes the first defection from the Brotherhood when he signs with the New York Giants of the National League, thus becoming the first \"double jumper\" in major league history.",
+   "links": [
+    "Indianapolis Hoosiers (National League)",
+    "Jack Glasscock",
+    "Players' League"
+   ],
+   "score": 20.0,
+   "abouts": [
+    "Jack Glasscock",
+    "Players' League",
+    "Indianapolis Hoosiers (National League)"
+   ],
+   "about": "Jack Glasscock",
+   "key": "356f9c8328257076",
+   "headline": "Former Indianapolis Hoosiers Shortstop Jack Glasscock",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Jack_Glasscock_Hoosiers.jpg",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jack_Glasscock_Hoosiers.jpg",
+    "alt": "American baseball player (1857–1947)",
+    "source": "wikipedia",
+    "of": "Jack Glasscock",
+    "w": 288,
+    "h": 386
+   },
+   "extract": "John Wesley Glasscock was an American shortstop in Major League Baseball who played for several teams from 1879 to 1895. Nicknamed \"Pebbly Jack\", he was the top player at his position in the 1880s during the sport's bare-handed era. He led the National League in fielding percentage seven times and in assists six…",
+   "page": "https://en.wikipedia.org/wiki/Jack_Glasscock"
+  }
+ ],
+ "wire": {
+  "count": 192,
+  "items": [
+   {
+    "year": 2020,
+    "text": "Rockies trade Case Williams and Jeff Hoffman to the Reds for Jameson Hannah and Robert Stephenson",
+    "star": false
+   },
+   {
+    "year": 2013,
+    "text": "Padres trade Jaff Decker and Miles Mikolas to the Pirates for Alex Dickerson",
+    "star": false
+   },
+   {
+    "year": 2006,
+    "text": "Brewers trade Doug Davis, Dana Eveland and Dave Krynzel to the Diamondbacks for Johnny Estrada, Claudio Vargas and Greg Aquino",
+    "star": false
+   },
+   {
+    "year": 2005,
+    "text": "Phillies trade cash and Jim Thome to the White Sox for Aaron Rowand and Daniel Haigwood",
+    "star": true
+   },
+   {
+    "year": 2003,
+    "text": "Marlins trade Derrek Lee to the Cubs for Hee-Seop Choi and Mike Nannini",
+    "star": false
+   },
+   {
+    "year": 1985,
+    "text": "White Sox trade Ed Correa and Scott Fletcher to the Rangers for Wayne Tolleson and Dave Schmidt",
+    "star": false
+   },
+   {
+    "year": 1969,
+    "text": "Angels trade Jim McGlothlin, Vern Geishert and Pedro Borbon to the Reds for Alex Johnson and Chico Ruiz",
+    "star": false
+   },
+   {
+    "year": 1953,
+    "text": "Yankees release Johnny Mize",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "6",
+    "note": "most in 2015 (3)"
+   },
+   {
+    "label": "Trades made",
+    "value": "47",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "96",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "2015",
+    "note": "25 transactions"
+   }
+  ],
+  "years": [
+   1889,
+   2021
+  ]
+ },
+ "papers": [
+  {
+   "year": 1958,
+   "paper": "Diario las Américas (Miami, Fla.;Miami Springs, Fla.)",
+   "page": 6,
+   "url": "https://www.loc.gov/resource/sn82001257/1958-11-25/ed-1/?sp=6&q=baseball"
+  },
+  {
+   "year": 1949,
+   "paper": "Evening star (Washington, D.C.)",
+   "page": 56,
+   "url": "https://www.loc.gov/resource/sn83045462/1949-11-25/ed-1/?sp=56&q=baseball"
+  },
+  {
+   "year": 1948,
+   "paper": "The Brooksville journal (Brooksville, Fla.)",
+   "page": 7,
+   "url": "https://www.loc.gov/resource/sn95047246/1948-11-25/ed-1/?sp=7&q=baseball"
+  },
+  {
+   "year": 1947,
+   "paper": "Le messager (Lewiston, Me.)",
+   "page": 4,
+   "url": "https://www.loc.gov/resource/sn83045313/1947-11-25/ed-1/?sp=4&q=baseball"
+  },
+  {
+   "year": 1945,
+   "paper": "The Wilmington morning star (Wilmington, N.C.)",
+   "page": 11,
+   "url": "https://www.loc.gov/resource/sn78002169/1945-11-25/ed-1/?sp=11&q=baseball"
+  },
+  {
+   "year": 1944,
+   "paper": "Le messager (Lewiston, Me.)",
+   "page": 4,
+   "url": "https://www.loc.gov/resource/sn83045313/1944-11-25/ed-1/?sp=4&q=baseball"
+  }
+ ]
+}
