@@ -1,0 +1,97 @@
+{
+ "month": 11,
+ "day": 26,
+ "games": 0,
+ "items": [],
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 191,
+  "items": [
+   {
+    "year": 2021,
+    "text": "Diamondbacks trade Ronny Simon to the Rays for Jordan Luplow",
+    "star": false
+   },
+   {
+    "year": 2003,
+    "text": "Athletics trade Terrence Long and Ramon Hernandez to the Padres for Mark Kotsay",
+    "star": false
+   },
+   {
+    "year": 1997,
+    "text": "Athletics trade David Newhan and Don Wengert to the Padres for Doug Bochtler and Jorge Velandia",
+    "star": false
+   },
+   {
+    "year": 1996,
+    "text": "Angels trade J.T. Snow to the Giants for Allen Watson and Fausto Macey",
+    "star": false
+   },
+   {
+    "year": 1986,
+    "text": "Yankees trade Doug Drabek, Brian Fisher and Logan Easley to the Pirates for Rick Rhoden, Cecilio Guante and Pat Clements",
+    "star": false
+   },
+   {
+    "year": 1962,
+    "text": "Orioles trade Gus Triandos and Whitey Herzog to the Tigers for Dick Brown",
+    "star": true
+   },
+   {
+    "year": 1962,
+    "text": "Yankees trade Bill Skowron to the Dodgers for Stan Williams",
+    "star": false
+   },
+   {
+    "year": 1961,
+    "text": "Red Sox trade Don Buddin to the Colts for Eddie Bressoud",
+    "star": false
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "13",
+    "note": "most in 2014 (5)"
+   },
+   {
+    "label": "Trades made",
+    "value": "32",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "89",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1962",
+    "note": "42 transactions"
+   }
+  ],
+  "years": [
+   1887,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [],
+  "debutCount": 0,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ },
+ "feats": {
+  "count": 0,
+  "items": []
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}
