@@ -1,0 +1,97 @@
+{
+ "month": 11,
+ "day": 27,
+ "games": 0,
+ "items": [],
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 256,
+  "items": [
+   {
+    "year": 2019,
+    "text": "Brewers trade Trent Grisham and Zach Davies to the Padres for Eric Lauer, Luis Urias and cash",
+    "star": false
+   },
+   {
+    "year": 2006,
+    "text": "Mike Mussina signs with the Yankees",
+    "star": true
+   },
+   {
+    "year": 2004,
+    "text": "Pirates trade cash and Jason Kendall to the Athletics for cash, Mark Redman and Arthur Rhodes",
+    "star": false
+   },
+   {
+    "year": 1996,
+    "text": "Ryne Sandberg signs with the Cubs",
+    "star": true
+   },
+   {
+    "year": 1991,
+    "text": "Eddie Murray signs with the Mets",
+    "star": true
+   },
+   {
+    "year": 1967,
+    "text": "Mets trade cash and Bill Denehy to the Senators for Gil Hodges",
+    "star": true
+   },
+   {
+    "year": 1961,
+    "text": "White Sox trade Minnie Minoso to the Cardinals for Joe Cunningham",
+    "star": true
+   },
+   {
+    "year": 1950,
+    "text": "Lou Boudreau signs with the Red Sox",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "5",
+    "note": "most in 1996 (1)"
+   },
+   {
+    "label": "Trades made",
+    "value": "88",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "71",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1961",
+    "note": "35 transactions"
+   }
+  ],
+  "years": [
+   1915,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [],
+  "debutCount": 0,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ },
+ "feats": {
+  "count": 0,
+  "items": []
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}
