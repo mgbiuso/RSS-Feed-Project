@@ -1,0 +1,97 @@
+{
+ "month": 11,
+ "day": 28,
+ "games": 0,
+ "items": [],
+ "records": [],
+ "nohitters": [],
+ "wire": {
+  "count": 298,
+  "items": [
+   {
+    "year": 2014,
+    "text": "Athletics trade Josh Donaldson to the Blue Jays for Brett Lawrie, Sean Nolin, Kendall Graveman and Franklin Barreto",
+    "star": false
+   },
+   {
+    "year": 2012,
+    "text": "Royals trade Vin Mazzaro and Clint Robinson to the Pirates for Luis Rico and Luis Santos",
+    "star": false
+   },
+   {
+    "year": 2007,
+    "text": "Twins trade Jason Bartlett, Matt Garza and Eddie Morlan to the Devil Rays for Brendan Harris, Delmon Young and Jason Pridie",
+    "star": false
+   },
+   {
+    "year": 2003,
+    "text": "Red Sox trade Casey Fossum, Brandon Lyon, Jorge de la Rosa and Mike Goss to the Diamondbacks for Curt Schilling",
+    "star": false
+   },
+   {
+    "year": 1989,
+    "text": "Rickey Henderson signs with the Athletics",
+    "star": true
+   },
+   {
+    "year": 1984,
+    "text": "Dennis Eckersley signs with the Cubs",
+    "star": true
+   },
+   {
+    "year": 1972,
+    "text": "Angels trade Andy Messersmith and Ken McMullen to the Dodgers for Frank Robinson, Bill Singer, Mike Strahler, Billy Grabarkewitz and Bobby Valentine",
+    "star": true
+   },
+   {
+    "year": 1927,
+    "text": "Pirates trade Kiki Cuyler to the Cubs for Sparky Adams and Pete Scott",
+    "star": true
+   }
+  ],
+  "summary": [
+   {
+    "label": "Players granted free agency",
+    "value": "9",
+    "note": "most in 2007 (2)"
+   },
+   {
+    "label": "Trades made",
+    "value": "90",
+    "note": "players moved"
+   },
+   {
+    "label": "Signings",
+    "value": "89",
+    "note": "free agents and amateurs"
+   },
+   {
+    "label": "Busiest year",
+    "value": "1967",
+    "note": "43 transactions"
+   }
+  ],
+  "years": [
+   1927,
+   2021
+  ]
+ },
+ "people": {
+  "debuts": [],
+  "farewells": [],
+  "debutCount": 0,
+  "farewellCount": 0,
+  "hofDebuts": 0,
+  "managerDebuts": []
+ },
+ "ejections": {
+  "count": 0,
+  "managers": 0,
+  "items": []
+ },
+ "feats": {
+  "count": 0,
+  "items": []
+ },
+ "note": "2026 regular-season games are not in Retrosheet yet, so 2026 here is postseason only, taken from Wikipedia's box scores. Retrosheet adds the full season after it ends."
+}
